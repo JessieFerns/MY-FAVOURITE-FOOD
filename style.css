@@ -1,0 +1,55 @@
+body{
+    background-color: #ffa59e;
+    font-family: cursive ;
+    text-align: center ;
+}
+
+#N1{
+    height: 480px ;
+    width : 450px ;
+    padding-right: 40px ;
+}
+
+#Bro1{
+    height: 480px ;
+    width : 450px ;
+}
+
+#Bur1{
+    height: 480px ;
+    width : 450px ;
+}
+
+#P1{
+    height: 480px ;
+    width : 450px ;
+    padding-right: 40px ;
+}
+
+.food{
+    padding: 80px ;
+    background-color:crimson;
+    margin: 100px ;
+}
+
+hr{
+    background-color: black ;
+    width: 500px ;
+    height: 10px ;
+}
+
+img { 
+    transition: transform .2s; 
+} 
+
+img:hover { 
+    transform: scale(0.8); 
+}
+
+h1{
+    background: linear-gradient(#ff756b 0%, #ff4538 30%, #fc1d0d 70% ); 
+}
+
+h2{
+    background: linear-gradient(#8502f7  0%, #a947ff 30%, #c88aff 70% ); 
+}
